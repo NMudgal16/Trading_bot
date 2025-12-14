@@ -297,7 +297,7 @@ pytest --cov=. tests/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This is an educational project for academic purposes. **Do not use real money without thoroughly understanding the risks.** Always use paper trading mode for testing.
 
@@ -305,13 +305,7 @@ This is an educational project for academic purposes. **Do not use real money wi
 - Trading involves substantial risk of loss
 - Consult with a financial advisor before live trading
 
----
 
-## 🤝 Contributing
-
-This project was developed as a final year project. Suggestions and improvements are welcome!
-
----
 
 ## 📝 License
 
@@ -321,15 +315,14 @@ MIT License - Feel free to use for educational purposes
 
 ## 👨‍💻 Author
 
-**Your Name**
-- University: [Your University]
-- Department: [Your Department]
+NIHARIKA MUDGAL
+- Department: COMPUTER SCIENCE
 - Year: Final Year
-- Email: your.email@example.com
+- Email: NIHARIKA MUDGAL20@example.com
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Yahoo Finance for market data
 - TA-Lib for technical indicators
@@ -338,4 +331,4 @@ MIT License - Feel free to use for educational purposes
 
 ---
 
-**⭐ If you find this project useful for your studies, please star the repository!**
+** If you find this project useful for your studies, please star the repository!**
