@@ -318,7 +318,7 @@ MIT License - Feel free to use for educational purposes
 NIHARIKA MUDGAL
 - Department: COMPUTER SCIENCE
 - Year: Final Year
-- Email: NIHARIKA MUDGAL20@example.com
+
 
 ---
 
